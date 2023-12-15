@@ -1,0 +1,2 @@
+# gjSchool
+Student Management
